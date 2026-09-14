@@ -1,0 +1,26 @@
+body{background-image: url(sanad.png);background-size: cover;background-repeat: no-repeat;
+
+}
+
+div{
+    display:flex;justify-content: space-between; font-size: 40px; color:gold;
+}
+p{
+    height: 500px;
+}
+
+p{
+    width:500px;height:50px;text-align:center; font-size:32px ;color:whitesmoke;
+}
+span{
+    color:white;font-size: 40px;
+}
+h1{
+    font-size:60px; color:gold
+}
+ol li{
+    font-size: 32px; width: 50%; color:white;
+}
+a{
+    text-decoration: none;
+}
